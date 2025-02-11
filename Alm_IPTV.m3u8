@@ -119,7 +119,9 @@ https://super-cdn.link/espn4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-####################DISC HOME & HEALTH
+####################FUTURA
+#EXTINF:-1 tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="ao vivo | FUTURA",FUTURA HD
+https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5NDgyMSwiaWF0IjoxNzM5MzA4NDIxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.sfydlxQI7dXfbLLptHd2pfYSGvYNr3gev35rAjYs-6ogk3NQXDsQr-do9N6IaGG60gcklRJffOg_u5U2j4rzZb_zwJQWNBiAqr3QMD2Hw3cEernVfst5p5a9KD5DqDyPzLMVHZ6HUb6soavfra70De1SePjPh9RvDEQP4XtcvPxkCJX2wVgFLlz0aDS2HTRjOCn1TW1dloVK1RchuUR03y9o7eKrSMfEIlXea6Ej5LlG7DuFUQz2UeQkpBtYCpRwQol4rON7VD5xlbtuD4hh_YpupImOGivRJGaQrnVis3wAgwEew9PWA5zpf7BpTYmXeAmXgjt72hJasCJhbYDl5A/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
 
 
 ###################PARAMOUNT
