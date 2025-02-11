@@ -89,8 +89,8 @@ https://live-tvg-df-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8]
 
 ###############SPORTV
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | TV",SporTV HD
-https://cr7v.short.gy/manoiTV/sptvxtra2/75991634025/index.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | TV",SporTV FHD
+https://live-tvg-df-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA0LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwMzI3MSwiaWF0IjoxNzM5MzE2ODcxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL3NwbzEyNGhhL3BsYXlsaXN0Lm0zdTgifQ.oN35yuscON6KEpffU9_sgpKXLYmBAVcxWEr_1wJZ9nrHb9NMLAEzyY6mHGYqX0AmOjdrUIHb_we7uZNdrZYXRblBQbCCPkN5_O6yZEgBCjN9O8OciiC7Y4k0AU1fPWStMUOVcRgxGS4TYLN0yaHYnHe2eTijsDu3mDNvHPkYJ-gpBBY9YaRQJKLIQ0j2AE0fknYNiAmtx_qDlLqV1HckhnwXIVkg1gv3k6Pyi1hilYoy7rEOkVoYWFZC3LSs00ndmHioJcANgpoz42K9tUxhLEDCeYLtXZlIVzwdUCumwzlZN6PQiK0fFdMdt7qGhj5mVy6kQfVyv-aiJL5JWsjznA/nu/f(i=2)/spo124ha/playlist.m3u8?originpath=/linear/hls/pa/event/UKxyvvINRw-WS1bFZFI0hw/stream/8a15a19e-f646-40bc-b57b-79f782b761e0:SCL/variant/d4cd12ae42371420ac49efe9d9b194a9/bandwidth/4127000.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | TV",SporTV 2 HD
 https://super-cdn.link/sportv2/index.m3u8
