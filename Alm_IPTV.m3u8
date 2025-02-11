@@ -1,0 +1,83 @@
+#EXTM3U
+
+############GLOBO
+#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo TV TAPAJÓS
+https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM3NTU2NywiaWF0IjoxNzM5Mjg5MTY3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXRhcC9wbGF5bGlzdC5tM3U4In0.P11B_7HpPDogzg-tcCUWT4DrDB28i7lvJtcRu4k3iFDvQkC18_KACN_XPPDQiskcLgVJ9Wo_HyvKiuUWLCIaRblxQ2XFwNMB2NOFwHXLfy-O1tGLr74G9Ndpr7fzM0-EUhVXDdwTV-c_LS3R2w_Ga2XLPfonL__hT-KBu7gn0KWnCpcHdRFanTIYXuOAvQEUS3Jw2s2414DZskYsIiWHCJItmC_9_gTvnFmuWDx_vQCu1xo_7-_sssbQ1eVyKaza4yjBE2Jc7bBs40EhbEgGGZgmoWGItLXw88l1gBO7XjlX-SZuTJvurs0LHVLUgf4K6Ok9GfU1F2qXi4tVOxPAZg/nu/f(i=2)/globo-tap/globo-tap-audio_1=96000-video=3442944.m3u8
+ 
+###########SBT
+
+#EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://i.imgur.com/g47oQ4n.png",SBT SP HD
+https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
+
+###########RECORD
+
+#EXTINF:-1 group-title="Canais | RECORD" tvg-logo="https://i.imgur.com/lyQ1v9M.png",Record SP HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
+
+##########REDETV!
+
+#EXTINF:-1 group-title="Canais | REDETV!" tvg-logo="https://i.imgur.com/EgKx2J1.png",RedeTV! SP FHD
+https://live-c.cf.dmcdn.net/sec2(-U-iHTN3ZpIGQoRFc9OuXmMmHFW7KG3fI5sO-Z-JqtdGfIYfNue8cV7ejAQeVZSgv59gaS5z9usf565TJ9vyBB10Lr6EyhYtQbVAFLr7RPo59iKpp31z60VOTiWy9eCp)/dm/3/x8xps0s/d/live-1080.m3u8#cell=lcfc
+
+
+##########BAND TV
+
+#EXTINF:-1 group-title="Canais | BAND TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band SP FHD
+https://live-c2.cf.dmcdn.net/sec2(XbCaXxn68XgAbhTpDFwoRdW9zH4njqVrWqqrDdWWu_V0eBXJJ9ZFq9AlmtRz-1SA5Qpm23Tgr2fs9ezmwIFCfzv58tPtvCiUlu-dg-d7xaeHp17iE2Vr_m-h3tEhaYiL)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
+
+############CNN
+
+#EXTINF:-1 group-title="Canais | CNN" tvg-logo="https://i.imgur.com/4dfmnBs.png",CNN BRASIL FHD
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+############JP NEWS
+
+#EXTINF:-1 group-title="Canais | JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JP NEWS FHD
+https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+
+#############CINEMAX
+
+#EXTINF:-1 group-title="Canais | CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png",CINEMAX FHD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+
+##############TNT
+
+#EXTINF:-1 group-title="Canais | TNT" tvg-logo="https://imgur.com/kA3ov0x.png",TNT HD
+https://super-cdn.link/tnt/index.m3u8
+
+##############DISNEY CHANNEL
+
+#EXTINF:-1 group-title="Canais | DISNEY CHANNEL" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+
+#############COMBATE
+#EXTINF:-1 group-title="Canais | COMBATE" tvg-logo="https://i.imgur.com/HIiZUQN.png",Combate HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+###############BAND NEWS
+
+#EXTINF:-1 group-title="Canais | BAND NEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png",Band News HD
+http://super-cdn.link/bandnews/index.m3u8
+
+###############GLOBO NEWS
+
+#EXTINF:-1 group-title="Canais | GLOBO NEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png",Globo News HD
+http://79.127.238.228:14093/
+
+###############HISTORY
+#EXTINF:-1 group-title="Canais | HISTORY" tvg-logo="https://i.imgur.com/0rNNqVy.png",History HD
+https://abrir.me/BLqil?ManoTV
+
+
+#EXTINF:-1 group-title="Canais | VIVA" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36931.m3u8
+
+
+
+#EXTINF:1 group-title="Canais | SPACE" tvg-logo=o="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36944.m3u8
+
+
+
+
+
