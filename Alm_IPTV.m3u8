@@ -76,6 +76,15 @@ http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36931.m3u8
 #EXTINF:-1 group-title="Canais |WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png", Warner Channel HD
 https://super-cdn.link/warnerchannel/index.m3u8
 
+###################AMAZON SAT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | AMAZON SAT",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
+
+###############GLOOB
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | GLOOB",GLOOB HD
+http://xenali.top:80/889281840/Z451m1324a/377230
+
+
 
 
 
