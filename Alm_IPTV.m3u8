@@ -120,11 +120,13 @@ https://super-cdn.link/espn4/index.m3u8
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 ####################FUTURA
-#EXTINF:-1 tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="ao vivo | FUTURA",FUTURA HD
+#EXTINF:-1 tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="ao vivo | FUTURA",FUTURA FHD
 https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5NDgyMSwiaWF0IjoxNzM5MzA4NDIxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.sfydlxQI7dXfbLLptHd2pfYSGvYNr3gev35rAjYs-6ogk3NQXDsQr-do9N6IaGG60gcklRJffOg_u5U2j4rzZb_zwJQWNBiAqr3QMD2Hw3cEernVfst5p5a9KD5DqDyPzLMVHZ6HUb6soavfra70De1SePjPh9RvDEQP4XtcvPxkCJX2wVgFLlz0aDS2HTRjOCn1TW1dloVK1RchuUR03y9o7eKrSMfEIlXea6Ej5LlG7DuFUQz2UeQkpBtYCpRwQol4rON7VD5xlbtuD4hh_YpupImOGivRJGaQrnVis3wAgwEew9PWA5zpf7BpTYmXeAmXgjt72hJasCJhbYDl5A/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
 
 
-###################PARAMOUNT
+###################MALHAÇÃO
+#EXTINF:-1 tvg-logo="https://statics.otvfoco.com.br/2021/07/malhacao.jpg" group-title="ao vivo | MALHAÇÃO",MALHAÇÃO FHD
+https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5NTE5MCwiaWF0IjoxNzM5MzA4NzkwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihiTWluPTU1ODk3NikvbWFsaGFmYXN0MjRoYS9wbGF5bGlzdC5tM3U4In0.Vsp497N-DtGO13PRkte6xmM42KFe9tj_w9CF9lCSX0ffnUf6u6w_nM7sYsJj0m5cW4oElOlak8ShXqoKVoCOLAG8oBfJBUI4y0X7jt1sdfvw8OO75Jh_ulmkuN1zRoVW90-9N16Gzv77d-Cs1MsWTFu-BRwe-McFv-lvLYERTyMbe34vMJfOwTi6drSIK7RaKAWj9NU95nbli-tvoCvTnVlVzRbvJnxHfC3bUV22dZuHX7CXkJy5yl4XsLLk-3-v3ClzhlO03z2G6PK-qIyoxvhwDAOmqU26UM5PJOcws_nXpVla6JDlan4Ld4d6zf8PU14hM_lUP8SXyhvt-XJVbg/nu/f(bMin=558976)/malhafast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/V7L52jpmQHiFh46lQPeH9A/stream/16d290a2-885f-46ab-bbab-9b850c9d8463:SCL/variant/64beade67b7c7bf06240d0c5d1171ed4/bandwidth/4235000.m3u8
 
 
 
