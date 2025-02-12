@@ -2,7 +2,7 @@
 
 ############GLOBO
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo 
-http://xciptv.8888play.one:80/228463308/r576049x/2375
+https://new.m3u8.one/globosp/index.m3u8
 ###########SBT
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/g47oQ4n.png",SBT SP HD
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
