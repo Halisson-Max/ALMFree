@@ -139,7 +139,13 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m
 
 ############################# RECORD NEWS
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-news-png.png" group-title="Canais | NOTÍCIAS",Record News HD
-https://news4.akamaized.net/hls/live/2037852/news4/master_720.m3u8?hdntl=exp=1739377869~acl=/*~data=hdntl~hmac=393d82452eb598c1a129a0fc89da335de197942e0f478d08d078387a6160a71c
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+######################## UNIVERSAL CHANNEL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
+https://abrir.me/gncXj?ManoTV
+
 
 
 
