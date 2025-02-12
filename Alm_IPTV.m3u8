@@ -5,48 +5,39 @@
 https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM3NTU2NywiaWF0IjoxNzM5Mjg5MTY3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXRhcC9wbGF5bGlzdC5tM3U4In0.P11B_7HpPDogzg-tcCUWT4DrDB28i7lvJtcRu4k3iFDvQkC18_KACN_XPPDQiskcLgVJ9Wo_HyvKiuUWLCIaRblxQ2XFwNMB2NOFwHXLfy-O1tGLr74G9Ndpr7fzM0-EUhVXDdwTV-c_LS3R2w_Ga2XLPfonL__hT-KBu7gn0KWnCpcHdRFanTIYXuOAvQEUS3Jw2s2414DZskYsIiWHCJItmC_9_gTvnFmuWDx_vQCu1xo_7-_sssbQ1eVyKaza4yjBE2Jc7bBs40EhbEgGGZgmoWGItLXw88l1gBO7XjlX-SZuTJvurs0LHVLUgf4K6Ok9GfU1F2qXi4tVOxPAZg/nu/f(i=2)/globo-tap/globo-tap-audio_1=96000-video=3442944.m3u8
  
 ###########SBT
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/g47oQ4n.png",SBT SP HD
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
 
 ###########RECORD
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",Record SP HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
 
 ##########REDETV!
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/EgKx2J1.png",RedeTV! SP FHD
 https://live-c.cf.dmcdn.net/sec2(-U-iHTN3ZpIGQoRFc9OuXmMmHFW7KG3fI5sO-Z-JqtdGfIYfNue8cV7ejAQeVZSgv59gaS5z9usf565TJ9vyBB10Lr6EyhYtQbVAFLr7RPo59iKpp31z60VOTiWy9eCp)/dm/3/x8xps0s/d/live-1080.m3u8#cell=lcfc
 
 
 ##########BAND TV
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/nCJNjyN.png",Band SP FHD
 https://live-c2.cf.dmcdn.net/sec2(XbCaXxn68XgAbhTpDFwoRdW9zH4njqVrWqqrDdWWu_V0eBXJJ9ZFq9AlmtRz-1SA5Qpm23Tgr2fs9ezmwIFCfzv58tPtvCiUlu-dg-d7xaeHp17iE2Vr_m-h3tEhaYiL)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
 
 ############CNN
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/4dfmnBs.png",CNN BRASIL FHD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
 ############JP NEWS
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/MWGAfvV.png",JP NEWS FHD
 https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 
 #############CINEMAX
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/v3a4Afr.png",CINEMAX FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
 ##############TNT
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/kA3ov0x.png",TNT HD
 https://super-cdn.link/tnt/index.m3u8
 
 ##############DISNEY CHANNEL
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
@@ -55,12 +46,10 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 ###############BAND NEWS
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/jCZzNjF.png",Band News HD
 http://super-cdn.link/bandnews/index.m3u8
 
 ###############GLOBO NEWS
-
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/Wu4ykxo.png",Globo News HD
 https://live-tvg-df-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwOTM3OSwiaWF0IjoxNzM5MzIyOTc5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL2duZXdzMjRoYS9wbGF5bGlzdC5tM3U4In0.fGmzpH3xlHtl8zjvisbR0A4WMB1H-M9YCwDUBANO6qJiPMFdaROnudfzgS0ZVqhmdNVjHP1D0TDFXdZDtkTdRzWYOcz3-yLTlU1WkQ3Dizujco-pFs5nCkMoc9z2yfSuA83sLS-Pfb17XnnXm12W-m0NgyMSV9qHql2A7ZwG7Nu8GBuhSl2ren7mXod3sNyqLirMWVy2bhZEmZJdjPxKEANStSSXvAo_EodcVK8kew5ETwrUo5D8_Yy_l4MHL0bCT5PoMUsfP_swpZ1fsrXbk9800LT3UwAvhevA6NwiNqma_2liorDokBBxseCHrM7KVlGSVvwpVsLh08nOmD8hiQ/nu/f(i=2)/gnews24ha/playlist.m3u8?originpath=/linear/hls/pa/event/2QTY2zCvSpiAKK8YHllzjA/stream/4490022f-08bf-4708-889d-e0beaef7427e:SCL/variant/72a5df5a07fa2aaa9f70ac9d5241eeb7/bandwidth/4127000.m3u8
 
@@ -70,7 +59,8 @@ https://abrir.me/BLqil?ManoTV
 
 ###################VIVA
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-httphttps://live-tvg-df-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwOTcxNiwiaWF0IjoxNzM5MzIzMzE2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbGl2ZS9mKGk9Mikvdml2YTI0aGEvcGxheWxpc3QubTN1OCJ9.ju9YRls5NVnmXzgXBRAMQchyedou-X0ZDoR6f98Onte1P5WHqh6wcouyuG5FnhBe6pBuE-QpuWJpwFkyJKe5D0ZtbR3Iy2dAq9NAvpj9UmRTaXNfgm0qLIMTL4WPMwjIyOWjvnpxUmW--Ho0sClyTQ5YIlSQ8BJmxM9p47P4E3wn2WI3MXj1r309pVdNfpUuMiXi7rYBfvf3sdfDVk7FI-1tfOpZokwAPg-RokxVdif8gfVQe1QiYp54h3MiQGLZS_B3giAdh5kp_i6pYMtREtgvubK-axXzPoFvxcRS5MjbYnM4-3uglEVGHPHBUGN1lVuE432HRYU9eRsmBuag0w/live/f(i=2)/viva24ha/playlist.m3u8?originpath=/linear/hls/pa/event/IsQ-v81PScyXGohAP6aqLA/stream/e5049ca1-6f36-4db1-9605-7faa799f2dbb:SCL/variant/e85230be31126295d46b72978fece750/bandwidth/4127000.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36931.m3u8
+
 ###############WARNER CHANNEL
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/zR0XZG7.png", Warner Channel HD
 https://super-cdn.link/warnerchannel/index.m3u8
@@ -131,29 +121,10 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5NDgyMSwiaWF0IjoxNzM5MzA4NDIxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.sfydlxQI7dXfbLLptHd2pfYSGvYNr3gev35rAjYs-6ogk3NQXDsQr-do9N6IaGG60gcklRJffOg_u5U2j4rzZb_zwJQWNBiAqr3QMD2Hw3cEernVfst5p5a9KD5DqDyPzLMVHZ6HUb6soavfra70De1SePjPh9RvDEQP4XtcvPxkCJX2wVgFLlz0aDS2HTRjOCn1TW1dloVK1RchuUR03y9o7eKrSMfEIlXea6Ej5LlG7DuFUQz2UeQkpBtYCpRwQol4rON7VD5xlbtuD4hh_YpupImOGivRJGaQrnVis3wAgwEew9PWA5zpf7BpTYmXeAmXgjt72hJasCJhbYDl5A/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
 
 
-###################MALHAÇÃO
-#EXTINF:-1 tvg-logo="https://statics.otvfoco.com.br/2021/07/malhacao.jpg" group-title="ao vivo | MALHAÇÃO",MALHAÇÃO FHD
-https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5NTE5MCwiaWF0IjoxNzM5MzA4NzkwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihiTWluPTU1ODk3NikvbWFsaGFmYXN0MjRoYS9wbGF5bGlzdC5tM3U4In0.Vsp497N-DtGO13PRkte6xmM42KFe9tj_w9CF9lCSX0ffnUf6u6w_nM7sYsJj0m5cW4oElOlak8ShXqoKVoCOLAG8oBfJBUI4y0X7jt1sdfvw8OO75Jh_ulmkuN1zRoVW90-9N16Gzv77d-Cs1MsWTFu-BRwe-McFv-lvLYERTyMbe34vMJfOwTi6drSIK7RaKAWj9NU95nbli-tvoCvTnVlVzRbvJnxHfC3bUV22dZuHX7CXkJy5yl4XsLLk-3-v3ClzhlO03z2G6PK-qIyoxvhwDAOmqU26UM5PJOcws_nXpVla6JDlan4Ld4d6zf8PU14hM_lUP8SXyhvt-XJVbg/nu/f(bMin=558976)/malhafast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/V7L52jpmQHiFh46lQPeH9A/stream/16d290a2-885f-46ab-bbab-9b850c9d8463:SCL/variant/64beade67b7c7bf06240d0c5d1171ed4/bandwidth/4235000.m3u8
-
-
-
-##################GEFAST
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/ge_fast_circle_476x476.png" group-title="ao vivo | GEFAST",GEFAST FHD
-https://live-tvg-df-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5NTkxMywiaWF0IjoxNzM5MzA5NTEzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihiTWluPTU1ODk3Nikvc3BvZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.LY9aWG8wilp1x3341I7PHAc-RaNtYgGWrBTcX8KrMlnHyBv1CkaFY_Vw4-8q_FlUWItcPoPE1gjTMCaScVc9iWtU0zlgtH8cu51HkpxXfaiebp6IJY6SgGaRkbYyseBmO5IoXyK07XJmi-G8m-u7NjjXIuiZ4m16NOBv7gViFnBy-sXGFIHWwDFbQ2a3PFH_lkfkgPYnNrPwMffKegrXIiQ7qWBSCzkp5VfHEajsgyaagQbnP5arJ4EPbDv6R5jHKbTDsG24C-4oSLLrP5mHvfuZehFYiFd0xyJhTkcEvP9w08c4fYN9nZxIapl-gedxPJXih9HzH7aHzDkbbd26GA/nu/f(bMin=558976)/spofast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/74fS7xoNQRySo6Fy20Oqgw/stream/3f5d1283-db90-46f6-bf25-5b8f80c52567:SCL/variant/3eb9027aa6462a39bb63ed9e33e4ded9/bandwidth/4235000.m3u8
-
-
-
-#################DPA FAST
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/62bb9d119176935.Y3JvcCw5NDYsNzQwLDQ4NywxNzA.jpg" group-title="ao vivo | DPA FAST",DPA FAST FHD
-https://live-tvg-df-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTM5Nzk4OCwiaWF0IjoxNzM5MzExNTg4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImVkYWM5OWVhLWNkZWUtNDM5Ny05ZDU5LTgyMjI3MmVlYTc3ZiIsInBhdGgiOiIvbnUvZihiTWluPTU1ODk3NikvZHBhZmFzdDI0aGEvcGxheWxpc3QubTN1OCJ9.TafkXAIVVnBVsZAR3Dk3vxH8Qqyy9e_Ck3ePgdjXNMQIX2myZeYj9SNVrbB0133ffLNowDWx4K2gAZOVbp1NHhtsWDVIkRggozBddta3tgZVXciqcAkpCON5BwPYafaZLxLj-zeXIOLwdQJ5riqlZ78twmUWTusMeUABB2o_SffqQ4vWAE3FjXSABAOql6aogvAKyTB87-RlBh_4qx6-faoOory38qKHziAku9jHG4T8WDDkq_abcMs8kgFRk8yS4YufZlzHTRzllypaTWxWB44uBz1UnY_K04WKWyOVGeiLImjY_qU9GDQq-Xwx75DxSiSQilCNdnlbOLF3CT_ncg/nu/f(bMin=558976)/dpafast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/xM7SllBOSDOLozHwkGrBIw/stream/fe7f82ae-6e32-4acd-bbc6-69e9bd566646:SCL/variant/34558712d93f883e47d23d2b6e8e0e6f/bandwidth/4235000.m3u8
-
 
 #################################### MULTISHOW
 #EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/05/Logo-MultiShow-Png-768x768.png" group-title="ao vivo | MULTISHOW",MULTISHOW FHD
 https://live-tvg-df-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwOTY4MSwiaWF0IjoxNzM5MzIzMjgxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL21zdzI0aGEvcGxheWxpc3QubTN1OCJ9.o-kQXjzP60isF_P9cLRZeaz8fb7VOHomUJV5RkwJTUcc9AhX-woPo3TkTAf2N3XxIi6VvuwXFl2Un3hYBMpea0t4-tfYuk_8kGxjP3ioQW32mRHjQku128GsvLxcwvQttDBDWW3ZoUtlf361JlOxFzG2GG2hRcu3OH9AQKMwPQJrTbOoE-7t4ahnFehkWtbQghLqBcvNJsBjDMHhe6PuxoEViRk6oEvYREs6W5iqvfpVYG21nwGtvoVjq2Iapw9lBNCbQT6ITvZPnFtO-G-1XL42JwmIZ3jsWcnZvFw4eDx_kTSVlm0qUeOfgcptEhZYVAdeuP92_dHVDEZEsikvTw/nu/f(i=2)/msw24ha/playlist.m3u8?originpath=/linear/hls/pa/event/-cUDQNeaQ5e5sXF18XF7GQ/stream/88cbf993-ea09-4ade-b348-b4128cc8f283:SCL/variant/943aa29e12381fad23eb5b703c969701/bandwidth/6577000.m3u8
-
-
-############################## BBB25
 
 
 
