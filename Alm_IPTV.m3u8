@@ -105,6 +105,9 @@ https://cr7v.short.gy/M/Clube/Index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD
 https://live-tvg-df-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwNDU3NCwiaWF0IjoxNzM5MzE4MTc0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL3BmYzIvcGxheWxpc3QubTN1OCJ9.bcXUwJOpNpbNSvl97p10Y7vL9PPZjM2lulo60wVjaUnfLMwS5csu4FCUGr04sSrgExvoCwH6zhHiLBSyLcpK5VnWpYFWXhtdZKJvThIdpx219aN748g76FoEh93X4HY0JmKsavnETJd8Ew-pPkhu1D152cCPmtTkD8GvJXafQYu_UH9t11EEadIY11Xcxkbh0LPuJygV69ab5MyKZ7jnZE-E9AGOmhRvegNicNaHAAFdRRczTXGvmo55A9is9M96nPkARTJORA_q_15lIG90CjKN9x9CAENusikh0Oj0zz4Ojm0fBSFQT-wvTTZnrk5bpO1zsYpJSmVEc62RPVc2gQ/nu/f(i=2)/pfc2/pfc2-audio_1=96000-video=3442944.m3u8
 
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 3 FHD
+https://new.m3u8.one/pre3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
 https://live-tvg-df-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwNDcyMywiaWF0IjoxNzM5MzE4MzIzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL3BmYzQvcGxheWxpc3QubTN1OCJ9.Y9ubppdx1s8vO9bSEizLGTSK0Nh-ELCSkRad3MTvjByU5rURLUcYDt-6bMLY-5pQvZderDbwLunLtLyDTSoGdXpLF4cRFKZP_Wz7x4PL5OfhYBPawSAkPk5ZwOHz6M7LIbdkPlXRlI_joN-AfCtOXd8DB6ezMaOFI3Z6kSQMC5BjCz4mS_xqBPShrpRC3UcuMAUaIxOJ37BpeUzXppP_w5rgjRzEIPZsdYU9iBRRrg7k4NpCZuUUKOQRmp49CmKsN_sumBUc5VRj_YxQcaZ6aVHXbQ5ewAYTnS-g0VNFQ5hU7zz77arBZZVZlF3iOatQeBc7vUNQFfHFlpqJLFQXqA/nu/f(i=2)/pfc4/pfc4-audio_1=96000-video=3442944.m3u8
 
@@ -124,6 +127,7 @@ https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 #############CINEMAX
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/v3a4Afr.png",CINEMAX FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+
 ################################# GNT
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT FHD
 https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQ0MTYyMiwiaWF0IjoxNzM5MzU1MjIyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL2dudDI0aGEvcGxheWxpc3QubTN1OCJ9.zXHfufmFzLuNDj8seIvasuDOBdDoah9-zJc5d87kjQ5q7t1ElyTGUSqGcXOkI5pFTy-XRNcjYdrnEOlXfSRpvFyTNbHk4S_l1MRJfYtFWZjVztUjkC81lJgNIbNA2TyF-PR5Xc7PxYmmgaewE86iJNR4t9hfApkCj4XOk7ApbkbIg1EaDSb7sPmFfJKm-upEnpMchjQr8eUjDMHrmpGn-1cMjiFypsNnWTjD79GKw79YedE7Ctk76Qn7pNu9Fp-iW9ifEw__hf1wNsLm-bzDzIHRzckEqE_BiOl4aEBd7vl2e7ZktG41DfdwPgbGhbK18us8kpkdR4Lsgzqtlfy8jw/nu/f(i=2)/gnt24ha/playlist.m3u8?originpath=/linear/hls/pa/event/zy6uUUw_RJqXgCa7t_qINQ/stream/d1148c56-9674-4781-805d-f8f8fa112a1e:SCL/variant/622325510666ebf796e930e1c7487e0b/bandwidth/4127000.m3u8
