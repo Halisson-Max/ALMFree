@@ -111,6 +111,10 @@ https://new.m3u8.one/pre3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
 https://live-tvg-df-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwNDcyMywiaWF0IjoxNzM5MzE4MzIzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL3BmYzQvcGxheWxpc3QubTN1OCJ9.Y9ubppdx1s8vO9bSEizLGTSK0Nh-ELCSkRad3MTvjByU5rURLUcYDt-6bMLY-5pQvZderDbwLunLtLyDTSoGdXpLF4cRFKZP_Wz7x4PL5OfhYBPawSAkPk5ZwOHz6M7LIbdkPlXRlI_joN-AfCtOXd8DB6ezMaOFI3Z6kSQMC5BjCz4mS_xqBPShrpRC3UcuMAUaIxOJ37BpeUzXppP_w5rgjRzEIPZsdYU9iBRRrg7k4NpCZuUUKOQRmp49CmKsN_sumBUc5VRj_YxQcaZ6aVHXbQ5ewAYTnS-g0VNFQ5hU7zz77arBZZVZlF3iOatQeBc7vUNQFfHFlpqJLFQXqA/nu/f(i=2)/pfc4/pfc4-audio_1=96000-video=3442944.m3u8
 
+
+#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
+https://new.m3u8.one/pre7/tracks-v1a1/mono.m3u8
+
 #######################CAZÉ TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
