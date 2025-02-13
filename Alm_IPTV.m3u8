@@ -4,6 +4,10 @@
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo Liberal
 https://almtv.com.br/media/n/BZfJAdG/a/BZfJAdG/720p/chunks.m3u8?ch=BZfJAdG&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Mzk0NjQ0MjMsImlhdCI6MTczOTQ0NjQyMywic3ViIjoibWFpbi5vcmcjMTcyNDA4MTQyMyJ9.Ln4XIpnL3lgJz3276TABSQl5JlQ1QWw2oz6Rti6s64M
 
+
+#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo Tapajós
+https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTUzODM2MywiaWF0IjoxNzM5NDUxOTYzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXRhcC9wbGF5bGlzdC5tM3U4In0.XZtp240rrrDcXBU8aU29HX9gfmkMwqa-UfFsEZT_rdZpOe8K6Okn4INc-qYwjNdll9mHLQLcCA2beRWV5tMNOkhXEMegcRF5ng4I9SfwRBjaxyR18rKs14qgi-wIVv8BHBz8Lo3-Prfz15kMI8gS3hqfm2NQt-NABXJmZgle0gadBaxwRqh9Ojt_TnT_C4cy5rj2wgun-GPgSp8XPs13XzdMmXKPr-6ipq4FWZo_YU5ZILiPWpW3krG-EOKFSTtWw0FUS7z4PGKXUcV0RpqTn4F8rlKP72worQv46UYtxLO2LhsEZeg2yCe8m2SUtSXsSW0yGFXPzPhs9mVZTurKsg/nu/f(i=2)/globo-tap/globo-tap-audio_1=96000-video=3442944.m3u8
+
 ########### SBT
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/g47oQ4n.png",SBT
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
