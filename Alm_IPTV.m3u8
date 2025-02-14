@@ -76,8 +76,6 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | TV",SporTV
 https://cr7v.short.gy/manoiTV/sptvxtra2/75991634025/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | TV",SporTV 2
 https://super-cdn.link/sportv2/index.m3u8
 
@@ -200,12 +198,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b00073579
 ########################## MULTISHOW
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
 https://new.m3u8.one/multishow/tracks-v1a1/mono.m3u8
-
-############################# TVE
-
-
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE
-https://almtv.com.br/media/n/BZfJAdiZ/a/BZfJAdiZ/720p/chunks.m3u8?ch=BZfJAdiZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Mzk0NjQ0MjMsImlhdCI6MTczOTQ0NjQyMywic3ViIjoibWFpbi5vcmcjMTcyNDA4MTQyMyJ9.Ln4XIpnL3lgJz3276TABSQl5JlQ1QWw2oz6Rti6s64M
 
 
 
