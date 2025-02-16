@@ -89,6 +89,19 @@ https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | TV",SporTV 3
 https://super-cdn.link/sportv3/index.m3u8
 
+################## ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN.png" group-title="Canais | ESPN",ESPN
+https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN2.png" group-title="Canais | ESPN",ESPN 2
+https://super-cdn.link/espn2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN3.png" group-title="Canais | ESPN",ESPN 3
+https://super-cdn.link/espn3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN4.png" group-title="Canais | ESPN",ESPN 4
+https://super-cdn.link/espn4/index.m3u8
+
 ################PREMIERE
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes
 https://cr7v.short.gy/M/Clube/Index.m3u8
@@ -151,16 +164,4 @@ https://new.m3u8.one/multishow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
-################## ESPN
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN.png" group-title="Canais | ESPN",ESPN
-https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN2.png" group-title="Canais | ESPN",ESPN 2
-https://super-cdn.link/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN3.png" group-title="Canais | ESPN",ESPN 3
-https://super-cdn.link/espn3/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN4.png" group-title="Canais | ESPN",ESPN 4
-https://super-cdn.link/espn4/index.m3u8
 
