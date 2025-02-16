@@ -7,6 +7,10 @@ https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6Ij
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/%2BSBT.png" group-title="Canais | SBT",+SBT
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/%2BSBT.png" group-title="Canais | SBT",+SBT
+https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/6469274c-8caa-4856-9957-8905c75c4fbc/5.m3u8
+
+
 ########### RECORD
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/lyQ1v9M.png",Record
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
