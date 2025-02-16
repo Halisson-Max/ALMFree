@@ -1,7 +1,7 @@
 #EXTM3U
 ############ GLOBO
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo
-http://xciptv.8888play.one:80/228463308/r576049x/2375
+https://new.m3u8.one/globorj/index.m3u8
 
 ########### SBT
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/g47oQ4n.png",SBT
@@ -117,7 +117,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 ####################FUTURA
 #EXTINF:-1 tvg-logo="https://logospng.org/download/canal-futura/futura-2048.png" group-title="ao vivo | FUTURA",FUTURA
-https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTU2MTE4NywiaWF0IjoxNzM5NDc0Nzg3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.ZrSPeXZEn9KZrnDbCnJkHd2DOGMncROi-WYFY0C5OEDRve6XFzUowiQEV2X0tJysMWjXoaX7Tb2G2IeptUDdo_wmfJ0ik_6YoZDpT2RgT6OU_aFitNO1t94clyfilsl4R6qQUd8iyHmGFFHqObH-RefNY9TaG3rHMdKLTBOatf53okuthVP0A-N2Sx9b1SClU6Wz7eKFNjh4x0E-55PQxt4D1cZdG376DW8LGhAV2GcRoiRANyKjb9VMzS4NrGHvrfvUwS9J4raFW5LFLsubDOD9ZvF_bo9o9T7pARLdxILnkv8q9qbUcYCBaLprDSLG7Rtormf1H7yRamhmnfbUuQ/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
+https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTc5NzQ4OCwiaWF0IjoxNzM5NzExMDg4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL2Z1dHVyYTI0aGEvcGxheWxpc3QubTN1OCJ9.mD3luzJ3HFN9s24FQkxS553yoHnv4qsuLpc9taMM1uc248cxTcTtgW7ow3SgmRdlOG7-SXXGlvfNqf_sJlhJzJIQc7Ot44E6sLvNSdtnCjzkM5BhJ-gaVMQO7sho-apvPdU3iK3SxifKwAOW5cepO5fneEsnt2zwIAUafvxyaZe7uA2dFw-C3Lu2H2qm_CTnh-PpQlUQflFj4GuKU8kxbPElxvYbU8wUrG1NkGXTATsIBDTGDlBI82Itq44okg2aVw1Z-4j2vjBviNqe8pjASHshw38U8Kgw7DdwgstqHdsY-L5-JFuNuPNHnc5Pvwr8QOPuMdPXRVZTXQC3S4cWrA/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3442944.m3u8
 
 
 #############CINEMAX
