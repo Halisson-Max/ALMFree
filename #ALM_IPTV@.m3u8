@@ -88,7 +88,7 @@ https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2
 https://super-cdn.link/espn2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3"https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3
 https://super-cdn.link/espn3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4
@@ -153,7 +153,5 @@ https://new.m3u8.one/multishow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
-############################ E!
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/103
+############################ 
 
