@@ -91,6 +91,7 @@ https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV3.png" group-title= "Canais | TV",SporTV 3
 https://super-cdn.link/sportv3/index.m3u8
 
+
 ################## ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN.png" group-title="Canais | ESPN",ESPN
 https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
@@ -166,4 +167,7 @@ https://new.m3u8.one/multishow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 
+##################### CULTURA PARÁ
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/IUhjJEM.png" group-title="Canais | ABERTO",TV Cultura Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
