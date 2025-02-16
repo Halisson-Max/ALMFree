@@ -77,7 +77,19 @@ https://live-tvg-df-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 
 ################ BAND TV
 #EXTINF:-1 tvg-id="New Brasil" tvg-name="New Brasil" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="Canais | TV",NEW BRASIL
+https://live-b2.cf.dmcdn.net/sec2(XLsD_BygaFva5SsH33G3_iXB9Wq_9sk9tXRZzX1eegvnSMq14Jta9ALEasFcn9bwmGjCjTV6IGPVllmTNcZLs3e1rM9th2hHtq6tIv4F8udI8Mo6k-k8RkTGC9lpmpw9)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfb2
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+
+
+############### SPORTV
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV.png" group-title="Canais | TV",SporTV
+https://cr7v.short.gy/manoiTV/sptvxtra2/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV2.png" group-title="Canais | TV",SporTV 2
+https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV3.png" group-title= "Canais | TV",SporTV 3
+https://super-cdn.link/sportv3/index.m3u8
 
 ################## ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN.png" group-title="Canais | ESPN",ESPN
