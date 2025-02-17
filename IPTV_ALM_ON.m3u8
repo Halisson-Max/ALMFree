@@ -67,11 +67,8 @@ https://super-cdn.link/warnerchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | TV",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 
-############### GLOOB
+####################### GLOOB 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | TV",GLOOB
-http://xenali.top:80/889281840/Z451m1324a/377230
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | TV",GLOOB FHD
 https://live-tvg-df-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTgwMDg2NiwiaWF0IjoxNzM5NzE0NDY2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvb2IyNGhhL3BsYXlsaXN0Lm0zdTgifQ.hd4wUo82467amaxoASpn9ZM3F8xgPuj-iBBkp7vxEVWPuUPzaqfR2rwX2X4sRm_ULHU0Pw_JdlsdIst3DVRsfxcnGZu37qDJAD27EJFyCtQLIoQ7PchbnBgaxmxV-TbV1a0v9lZpgeDRaKTdJZACrI12d_qhUSQtJXRo9a4kFIRTt6VRzHxSAA-dQi2s7nEcBxlMG3FOk6SO9XL0KcA1Z_hCo4fVtMbtaEkcqoK2BUSdg-G3GsLAWTANinYWgjaZ2ItVa0QRuf5UeLLj8aMv4IaRm6cj84VfNY9S1EY7ownktbGEC-C6_aWtds2CcFqVBVPxRhJjXinMxCM_jrKVSA/live/f(i=2)/gloob24ha/gloob24ha-audio_1=96000-video=3442944.m3u8
 
 
