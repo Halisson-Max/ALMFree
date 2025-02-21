@@ -54,6 +54,9 @@ http://79.127.238.228:14093/
 https://abrir.me/BLqil?ManoTV
 
 ################### VIVA
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
+http://conexao-vs.live/VIVA/index.m3u8
+
 
 ############### WARNER CHANNEL
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/zR0XZG7.png", Warner Channel
@@ -65,7 +68,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 
 ####################### GLOOB 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | TV",GLOOB
-https://live-tvg-df-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc0MDE2ODIxMSwiaWF0IjoxNzQwMTU3NDExLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvb2IyNGhhL3BsYXlsaXN0Lm0zdTgifQ.ulhC0TbIjQJvH-z7iC13BCx3g8VqQTMHdHl2YM-DEKmLoel79hz4yKPTrZXhSYDgZbaGQ2gja0EJ7OBmXE055fjNBdK9A88sl8BEFOpAwIWZpYRjrb6HPE3WSI_16_WC5L_q8wFyGRVJEvXaKb9PKcNox6XPYx1N__1bOlqzclGVd5YnxRyq7j_F9alVmEy2AJa8YVQVnDLySftLSXJ2Zi3VdROWQQYCwpl-WzdfnHZPesK1oCmCS0DS__iNb0Q-YaOF_2VXSL1agGeEjK8NmlmO-kJfoJYh-rhTnTpHXHx-Bz5Fi0KYxDqoHBOnD0SIdqClV2QJxfV3Y50MmSyD6w/live/f(i=2)/gloob24ha/gloob24ha-audio_1=96000-video=3442944.m3u8
+http://xenali.top:80/889281840/Z451m1324a/377230
 
 
 
