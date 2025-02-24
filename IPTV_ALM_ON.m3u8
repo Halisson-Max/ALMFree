@@ -89,7 +89,7 @@ https://super-cdn.link/sportv3/index.m3u8
 
 ################## ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN.png" group-title="Canais | ESPN",ESPN
-https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
+http://185.246.208.74:14493/
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN2.png" group-title="Canais | ESPN",ESPN 2
 https://super-cdn.link/espn2/index.m3u8
