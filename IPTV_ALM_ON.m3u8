@@ -1,7 +1,7 @@
 #EXTM3U
 ############ GLOBO
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo
-https://live-01.edge-sea-tur-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1zZWEtdHVyLXBhLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc0MDUwNTY3NywiaWF0IjoxNzQwNDk0ODc3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXRhcC9wbGF5bGlzdC5tM3U4In0.NhmvcF7N2DCfF4GkvIkSJcakf2BSNZ8-Qk58WFWrJ27XdqoySr7Ogh0HCIwc69roIVLMuBw-4HO_FUssYWvEL15Tte5zGHzFd-7cEp5kg1i7hptDm98iSJ4vHSYhtF23sKFmBhqYqqGnQv04I2euhtKWZFAJC1ajrEpzfBeYr-zsgRuxke9xLt0hxpY2N1CwxskBOHW5qLtZfXbdE6qCxmcpM38Fd5MMIddoiJxWzhJ5Cfp-5IQKea57Epdtx4Tqb2i7yypIxuvBLBqYzoJvvCRuGIhZIgLJ1WmxiGvujArhLSBEH5JopbHSnNaGl2wxY6YvltKsdKlAc7EeXReDWA/nu/f(i=2)/globo-tap/globo-tap-audio_1=96000-video=3442944.m3u8
+https://new.m3u8.one/globorj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/%2BSBT.png" group-title="Canais | SBT",+SBT
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
