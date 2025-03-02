@@ -28,38 +28,13 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/MWGAfvV.png",JP NEWS
 https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 
-############## TNT
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/kA3ov0x.png",TNT
-https://super-cdn.link/tnt/index.m3u8
-
-############## DISNEY CHANNEL
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-
-############# COMBATE
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/HIiZUQN.png",Combate
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
-
-############### BAND News
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/jCZzNjF.png",Band News
-http://super-cdn.link/bandnews/index.m3u8
-
 ############### GLOBO NEWS
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/Wu4ykxo.png",Globo News
 http://79.127.238.228:14093/
 
-############### HISTORY
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/0rNNqVy.png",History
-https://abrir.me/BLqil?ManoTV
-
 ################### VIVA
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
 http://conexao-vs.live/VIVA/index.m3u8
-
-
-############### WARNER CHANNEL
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://imgur.com/zR0XZG7.png", Warner Channel
-https://super-cdn.link/warnerchannel/index.m3u8
 
 ################### AMAZON SAT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | TV",Amazon Sat
@@ -69,51 +44,21 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | TV",GLOOB
 http://xenali.top:80/889281840/Z451m1324a/377230
 
-
-
-
 ################ BAND TV
 #EXTINF:-1 tvg-id="New Brasil" tvg-name="New Brasil" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="Canais | TV",NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
-
-
-############### SPORTV
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV.png" group-title="Canais | TV",SporTV
-https://cr7v.short.gy/manoiTV/sptvxtra2/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV2.png" group-title="Canais | TV",SporTV 2
-https://super-cdn.link/sportv2/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/SPORTV3.png" group-title= "Canais | TV",SporTV 3
-https://super-cdn.link/sportv3/index.m3u8
-
 
 ################## ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN.png" group-title="Canais | ESPN",ESPN
 http://185.246.208.74:14493/
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN2.png" group-title="Canais | ESPN",ESPN 2
-https://super-cdn.link/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN3.png" group-title="Canais | ESPN",ESPN 3
-https://super-cdn.link/espn3/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/ESPN4.png" group-title="Canais | ESPN",ESPN 4
-https://super-cdn.link/espn4/index.m3u8
-
 ################PREMIERE
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2
-https://live-tvg-df-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwNDU3NCwiaWF0IjoxNzM5MzE4MTc0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL3BmYzIvcGxheWxpc3QubTN1OCJ9.bcXUwJOpNpbNSvl97p10Y7vL9PPZjM2lulo60wVjaUnfLMwS5csu4FCUGr04sSrgExvoCwH6zhHiLBSyLcpK5VnWpYFWXhtdZKJvThIdpx219aN748g76FoEh93X4HY0JmKsavnETJd8Ew-pPkhu1D152cCPmtTkD8GvJXafQYu_UH9t11EEadIY11Xcxkbh0LPuJygV69ab5MyKZ7jnZE-E9AGOmhRvegNicNaHAAFdRRczTXGvmo55A9is9M96nPkARTJORA_q_15lIG90CjKN9x9CAENusikh0Oj0zz4Ojm0fBSFQT-wvTTZnrk5bpO1zsYpJSmVEc62RPVc2gQ/nu/f(i=2)/pfc2/pfc2-audio_1=96000-video=3442944.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3
 https://new.m3u8.one/pre3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4
-https://live-tvg-df-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTczOTQwNDcyMywiaWF0IjoxNzM5MzE4MzIzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImViOWRmODQ0LTFlZjgtNDgxZS1hNDNlLTdiZDI5NDJmZDA4MCIsInBhdGgiOiIvbnUvZihpPTIpL3BmYzQvcGxheWxpc3QubTN1OCJ9.Y9ubppdx1s8vO9bSEizLGTSK0Nh-ELCSkRad3MTvjByU5rURLUcYDt-6bMLY-5pQvZderDbwLunLtLyDTSoGdXpLF4cRFKZP_Wz7x4PL5OfhYBPawSAkPk5ZwOHz6M7LIbdkPlXRlI_joN-AfCtOXd8DB6ezMaOFI3Z6kSQMC5BjCz4mS_xqBPShrpRC3UcuMAUaIxOJ37BpeUzXppP_w5rgjRzEIPZsdYU9iBRRrg7k4NpCZuUUKOQRmp49CmKsN_sumBUc5VRj_YxQcaZ6aVHXbQ5ewAYTnS-g0VNFQ5hU7zz77arBZZVZlF3iOatQeBc7vUNQFfHFlpqJLFQXqA/nu/f(i=2)/pfc4/pfc4-audio_1=96000-video=3442944.m3u8
-
 
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7
 https://new.m3u8.one/pre7/tracks-v1a1/mono.m3u8
@@ -138,22 +83,9 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel
 https://abrir.me/gncXj?ManoTV
 
-############################ PLUTO ANIMAIS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Animais
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 ############################## VIAJANDO PELO BRASIL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yEvzTGK.png" group-title="Canais | VARIEDADES",Viajando pelo Brasil 
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-
-################################ MTV EX
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Canais | REALITY",MTV Com o Ex
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
-
-
-########################## MULTISHOW
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
-https://new.m3u8.one/multishow/tracks-v1a1/mono.m3u8
 
 ########################### UOL
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Canal UOL
