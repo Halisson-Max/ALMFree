@@ -1,6 +1,6 @@
 #EXTM3U
 ############ GLOBO
-#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo HD
+#EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo
 https://new.m3u8.one/globosp/index.m3u8
 
 
