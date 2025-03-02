@@ -2,7 +2,6 @@
 ############ GLOBO
 #EXTINF:-1 group-title="Canais | TV" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo
 https://new.m3u8.one/globorj/index.m3u8
-hhhhttps://new.m3u8.one/globorj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Halisson-Max/Logos-Canais/refs/heads/main/%2BSBT.png" group-title="Canais | SBT",+SBT
 https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/585c66fa-7542-4535-84ff-b357d5bbf18b/5.m3u8
